@@ -59,7 +59,7 @@ span a:hover {
 }
 
 #bgvideo {
-    height: 850px;
+    width: 100%;
     margin-left: -6px;
     margin-top: -116px;
 }
@@ -137,7 +137,7 @@ h1:hover {
 
 .in {
     padding: 5px;
-    width: 520px;
+    width: 510px;
     font-family: 'Comfortaa', cursive;
     font-size: 20px;
     border: 0px;
@@ -333,7 +333,13 @@ input {
     width: 70px;
     height: 25px;
     font-family: 'Comfortaa';
+    color: antiquewhite;
+    background-color: rgb(78, 2, 2);
     box-shadow: 2px 2px 8px 0px;
+}
+#frm:hover{
+    background-color: antiquewhite;
+    color: rgb(78, 2, 2);
 }
 
 #sidepic {
