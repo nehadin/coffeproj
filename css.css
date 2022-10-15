@@ -34,7 +34,7 @@
 .rightbox {
     margin-top: -120px;
     margin-left: 1250px;
-   
+
 }
 
 span a {
@@ -90,7 +90,7 @@ h1 {
     height: 45px;
     width: 200px;
     box-shadow: 4px 3px 10px 1px;
-    
+
 
 }
 
@@ -157,7 +157,8 @@ h1:hover {
     height: 37px;
     width: 270px;
 }
-.sbtn:hover{
+
+.sbtn:hover {
     color: rgb(216, 136, 107);
     background-color: rgba(152, 12, 12, 0.941);
 }
@@ -205,14 +206,15 @@ h2 {
     text-align: center;
     font-size: 25px;
     padding: 5px 5px 0px 5px;
-    text-shadow: 2px 3px  rgba(171, 89, 6, 0.51);
-}
-.p1:hover{
-    box-shadow: 10px 9px 7px 0px;
-    text-shadow: 2px 3px  rgba(9, 5, 2, 0.51);
+    text-shadow: 2px 3px rgba(171, 89, 6, 0.51);
 }
 
-.picbtn{
+.p1:hover {
+    box-shadow: 10px 9px 7px 0px;
+    text-shadow: 2px 3px rgba(9, 5, 2, 0.51);
+}
+
+.picbtn {
     margin-top: 80px;
     margin-left: 45%;
     width: 250px;
@@ -224,27 +226,31 @@ h2 {
     border-width: 2px;
     border-radius: 22px;
     box-shadow: 5px 5px 8px 0px;
-}   
-.picbtn:hover{
-    background-color: rgb(92, 14, 14);
-    color: rgba(251, 149, 85, 0.852); 
-    font-weight: bold;
-   
 }
-.diner{
+
+.picbtn:hover {
+    background-color: rgb(92, 14, 14);
+    color: rgba(251, 149, 85, 0.852);
+    font-weight: bold;
+
+}
+
+.diner {
     float: left;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 21px;
     color: aliceblue;
-   
+
 }
-.siz{
+
+.siz {
     width: 101%;
     float: left;
     margin-top: -550px;
-   margin-left: -8px;
+    margin-left: -8px;
 }
-h3{
+
+h3 {
     font-family: 'Macondo', cursive;
     font-size: 50px;
     font-weight: bold;
@@ -252,110 +258,134 @@ h3{
     padding: 10px 10px 5px 10px;
     text-shadow: 3px 4px rgb(136, 99, 5);
 }
-.para{
+
+.para {
     text-shadow: 1px 2px rgb(93, 55, 3);
     margin-left: 170px;
 }
-.gallery{
+
+.gallery {
     display: flex;
     margin-left: -2px;
 }
-.gal{
+
+.gal {
     margin-top: -50px;
     width: 280px;
     height: 180px;
     border: solid white 10px;
     transition-duration: 0.5s;
 }
-.gal:hover{
+
+.gal:hover {
     width: 300px;
     height: 200px;
-    
+
     box-shadow: 2px 2px 9px 0px;
 }
-.frm{
+
+.frm {
     font-family: 'Comfortaa', cursive;
     font-size: 20px;
     text-shadow: 50;
     margin-left: 150px;
     margin-top: 100px;
-    color: rgba(80, 9, 0, 0.678);/* rgb(246, 181, 158)*/
+    color: rgba(80, 9, 0, 0.678);
+    /* rgb(246, 181, 158)*/
     font-weight: bold;
     width: 85%;
     height: 400px;
     /* background-color: rgba(204, 174, 126, 0.319); */
     border-style: solid;
-    border:2px 6px 3px 2px;
+    border: 2px 6px 3px 2px;
     border-top-right-radius: 100px;
     border: rgb(91, 4, 4);
 }
-h4{
+
+h4 {
     margin-left: 200px;
-    padding:10px;
+    padding: 10px;
 }
-form{
+
+form {
     width: 800px;
     margin-left: 510px;
     padding: 20px;
     text-indent: 100% hanging;
     line-height: 40px;
     border-left: 2px black solid;
-    
-}
-label{
-    width: 20%;
-   margin: 0px;
-   padding: 0px;
-   /* float: left; */
-   display: inline-block;
+
 }
 
-input{
+label {
+    width: 20%;
+    margin: 0px;
+    padding: 0px;
+    /* float: left; */
+    display: inline-block;
+}
+
+input {
     font-size: 20px;
-    }
-#sidepic{
+}
+
+#frm {
+    width: 70px;
+    height: 25px;
+    font-family: 'Comfortaa';
+    box-shadow: 2px 2px 8px 0px;
+}
+
+#sidepic {
     margin-top: -310px;
     margin-left: -40px;
-    
+
 }
-.footer{
+
+.footer {
 
     background-color: rgb(249, 236, 222);
     height: 350px;
-    
+
 }
-#img{
+
+#img {
     margin-left: 150px;
 }
-ul{
+
+ul {
     margin-left: 150px;
     list-style: none;
     font-family: 'Aref Ruqaa Ink', serif;
     font-size: 15px;
     line-height: 30px;
-    
-    }
-.li{
+
+}
+
+.li {
     text-decoration: none;
     font-weight: bold;
     color: rgb(44, 25, 25);
 }
-.li:hover{
-    color:orangered;
+
+.li:hover {
+    color: orangered;
     text-decoration: underline;
 }
-#end{
+
+#end {
     font-family: 'Luckiest Guy', cursive;
     font-size: 50px;
     color: orangered;
     text-shadow: 2px 5px brown;
     margin-left: 900px;
     margin-top: -250px;
-    width: 25%; 
-    text-align: right; 
+    width: 25%;
+    text-align: right;
 
 }
-.last a{
+
+.last a {
     margin-left: 150px;
     text-decoration: none;
     font-family: 'Abyssinica SIL', serif;
@@ -363,7 +393,8 @@ ul{
     letter-spacing: 1px;
     padding-bottom: 30px;
 }
+
 .icon {
-   padding-left: 450px;
-   padding-right:20px ;
+    padding-left: 450px;
+    padding-right: 20px;
 }
