@@ -404,3 +404,9 @@ ul {
     padding-left: 450px;
     padding-right: 20px;
 }
+.fa-chevron-up{
+    scroll-behavior: smooth;
+   margin-left: 90%;
+   box-shadow: 5px 10px 10px;
+   height: 20px;
+}
